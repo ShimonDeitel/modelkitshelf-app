@@ -1,0 +1,40 @@
+{
+  "identifier": "Configuration",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "Model Kit Shelf Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2100001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited kits and build-log photo timeline",
+              "displayName": "Model Kit Shelf Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.modelkitshelf.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Model Kit Shelf Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
